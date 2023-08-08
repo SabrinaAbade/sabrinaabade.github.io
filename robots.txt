@@ -1,0 +1,9 @@
+User-agent: GoogleBot
+Allow: /file:///C:/SITE%20PESSOAL/index.html
+Allow: /file:///C:/SITE%20PESSOAL/curriculo.html
+Allow: /file:///C:/SITE%20PESSOAL/6.%20Pol%C3%ADtica%20de%20Atendimento.html
+Allow: /file:///C:/SITE%20PESSOAL/portifolio.html
+Allow: /file:///C:/SITE%20PESSOAL/formscontato.html
+User-agent: *
+Disallow: /
+Sitemap: www.sabrinaabade.com.br
